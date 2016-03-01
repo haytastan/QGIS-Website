@@ -42,7 +42,8 @@ type of building structures, resulting in different seismic hazards.
 The seismic microzonation evaluates the local seismic hazard, through the identification
 of areas of territory characterized by homogeneous seismic behavior.
 
-The Guidelines and Criteria for Seismic microzoning 2008 (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)
+The Guidelines and Criteria for Seismic microzoning 2008
+(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)
 provide standards for seismic microzoning studies on Italian territory;
 they distinguish three levels of increasing depth (from 1 to 3).
 
@@ -83,7 +84,8 @@ The model takes as input (Fig. 2):
 * A shapefile of contour lines containing a field with elevation values;
 * The name of the field  containing elevation values;
 * The desired raster resolution in meters for DEM and Slope (default 10);
-* A polygon shapefile from which features intersecting areas with slope greater than 15 degrees will be extracted;
+* A polygon shapefile from which features intersecting areas with slope greater
+  than 15 degrees will be extracted;
 * The name of the resulting polygon layer.
 
 .. figure:: ./images/italy_igag2.png
@@ -126,17 +128,21 @@ than 15 degrees, automatically extracted from a thematic map such as a landslide
 Conclusions
 ===========
 
-This work clearly demonstrates that open source GIS tools like QGIS, GRASS, GDAL/OGR, can successfully
-be used for spatial analysis and data processing aimed at first level seismic microzonation  studies.
-In this example work, QGIS has been used as a simplified and unified interface for different high
-quality GFOSS tools; the Graphical Modeler allows to intuitively construct geoprocessing models
-that can be easily shared as portable and cross-platform tools that doesn't require expensive software licenses.
-The tool leverages the QGIS modeling capabilities to graphically chain different algorithms,
-defining input and output parameters and leaving to the software the task of managing
-intermediate data output. The use of GRASS algorithms does not require defining and using
-a GRASS database and mapset, greatly simplifying the design of the model.
-Future developments include the creation of a package of tools and models, based on open source software,
-that can be used to simplify and speed up spatial analysis tasks necessary for seismic microzonation studies.
+This work clearly demonstrates that open source GIS tools like QGIS, GRASS,
+GDAL/OGR, can successfully be used for spatial analysis and data processing
+aimed at first level seismic microzonation  studies.
+In this example work, QGIS has been used as a simplified and unified interface
+for different high quality GFOSS tools; the Graphical Modeler allows to intuitively
+construct geoprocessing models that can be easily shared as portable and
+cross-platform tools that doesn't require expensive software licenses.
+The tool leverages the QGIS modeling capabilities to graphically chain different
+algorithms, defining input and output parameters and leaving to the software the
+task of managing intermediate data output. The use of GRASS algorithms does not
+require defining and using a GRASS database and mapset, greatly simplifying
+the design of the model.
+Future developments include the creation of a package of tools and models,
+based on open source software, that can be used to simplify and speed up
+spatial analysis tasks necessary for seismic microzonation studies.
 
 References
 ==========
