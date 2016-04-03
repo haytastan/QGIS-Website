@@ -10,7 +10,6 @@ Welcome to the QGIS Development pages
     :maxdepth: 2
 
     roadmap
-    bugreporting
     qgisdevelopersguide/index
     plugindevelopment
     addinggrasstools

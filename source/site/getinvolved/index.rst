@@ -9,6 +9,7 @@ Get Involved / Development
     translate
     development/index
     Plugins website <http://plugins.qgis.org>
+    bugreporting
     mailinglists
     governance/index
     meetings/index
