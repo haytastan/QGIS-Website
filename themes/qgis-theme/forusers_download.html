@@ -1,9 +1,10 @@
 <section class="intro">
     <div class="container">
         <h2>{{ _('Download QGIS for your platform') }}</h2>
-        <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('QGIS is available on Windows, MacOS X, Linux and Android.') }}</p>
+        <p class="main">{{ _('The current version is QGIS %s \'%s\' and was released on %s.')|format( release, codename, releasedate.strftime('%d.%m.%Y') ) }}</p>
         <p class="main">{{ _('Binary packages (installers) for current stable version {0} can be downloaded here.').format( version ) }}</p>
+        <p class="main">{{ _('QGIS releases schedule can be found:') }} <a class="caption-link" href="{{ pathto('site/forusers/getinvolved/development/roadmap') }}" target="_blank">{{ _('here')}}</a></p>
 <!-- Comment out after release
         <p class="main">
           {{ _('We are currently in feature freeze preceding the release of QGIS 2.9. <b>Please consider testing the prereleases</b>. See ') }}
