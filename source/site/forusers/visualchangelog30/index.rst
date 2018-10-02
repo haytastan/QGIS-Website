@@ -2410,9 +2410,9 @@ This feature was developed by Martin Dobias
 .. |Insurance Australia Group Limited (IAG)| image:: images/projects/thumbnails/0b9e2d5d8a316a854434eb4e8b95cb4cd0b4d720.png.150x50_q85.png
    :target: https://www.iag.com.au/
 .. |image63| image:: images/entries/thumbnails/23e0bd2bc2cd560dad2d2a873e7d9ab98c532fb0.png.400x300_q85_crop.jpg
-   :target: #
+   :target:  ../images/entries/thumbnails/23e0bd2bc2cd560dad2d2a873e7d9ab98c532fb0.png.400x300_q85_crop.jpg
 .. |image64| image:: images/entries/thumbnails/7666e6f1fd7a95ec3e099c27c6bf9ef6b145c956.jpeg.400x300_q85_crop.jpg
-   :target: #
+   :target: images/entries/thumbnails/7666e6f1fd7a95ec3e099c27c6bf9ef6b145c956.jpeg.400x300_q85_crop.jpg
 .. |image65| image:: images/entries/thumbnails/ca710bbcb3e67a83217d5894ccccfcb5103b1bf4.png.400x300_q85_crop.jpg
    :target: #
 .. |image66| image:: images/entries/02137f3073c3f8a32bc505bd4916a8df751db79f.gif
@@ -2461,7 +2461,7 @@ This feature was developed by Martin Dobias
 .. |image88| image:: images/entries/thumbnails/eea327329365ad80c7fc3363ad0fb455fc9d4335.png.400x300_q85_crop.jpg
    :target: #
 .. |image89| image:: images/entries/974604dc8908668c2d727e12975707560cffb493.gif
-   :target: images/entries/974604dc8908668c2d727e12975707560cffb493.gif
+   :target: ../images/entries/974604dc8908668c2d727e12975707560cffb493.gif
 .. |image90| image:: images/entries/c2761555d13be6b8a1893da2bd3240dd6343c9a6.gif
    :target: images/entries/c2761555d13be6b8a1893da2bd3240dd6343c9a6.gif
 .. |image91| image:: images/entries/b47f105d5ea3ecf5176a8296cc386c65bce21da7.gif
