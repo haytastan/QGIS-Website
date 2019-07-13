@@ -10,7 +10,7 @@ Core Development
 
 QGIS is an Open Source Geographic Information System that currently runs on
 most Unix platforms (macOS/OS X included) and Windows. Developed using the Qt
-toolkit (http://qt.io), it's mainly written in C++ and Python languages.
+toolkit (https://qt.io), it's mainly written in C++ and Python languages.
 This means that QGIS feels snappy to use and has a pleasing, easy to use
 graphical user interface.
 
@@ -46,7 +46,7 @@ Preparing the Environment and Setting up the Repo
 
 * Go to the QGIS repository in Github at https://github.com/qgis/QGIS/
 * Make a Fork for yourself. Learn more about forking and keeping your repo in sync 
-  with the main development repo at http://help.github.com/fork-a-repo/
+  with the main development repo at https://help.github.com/en/articles/fork-a-repo
 * Clone your personal copy of the repository to your system, and 
   add upstream as mentioned in above provided link
 * Read the https://github.com/qgis/QGIS/blob/master/INSTALL about setting up 
@@ -88,14 +88,14 @@ https://plugins.qgis.org/plugins/pluginbuilder/
 You can also have a look into the **Python Cookbook** in our Documentation site:
 https://docs.qgis.org.
 
-Looking for examples of python plugins, see http://plugins.qgis.org
+Looking for examples of python plugins, see https://plugins.qgis.org
 
 You can find the QGIS-iface which you can use via python here:
 
-http://qgis.org/api/classQgisInterface.html (for QGIS testing)
+https://qgis.org/api/classQgisInterface.html (for QGIS testing)
 
-http://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
+https://qgis.org/api/2.0/classQgisInterface.html (for QGIS 2.0)
 
-http://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
+https://qgis.org/api/1.8/classQgisInterface.html (for QGIS 1.8)
 
 
